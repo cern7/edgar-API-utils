@@ -1,5 +1,3 @@
-import json
-import requests
 from data_fetching import CompanyFacts
 import aiohttp
 import asyncio
@@ -10,7 +8,7 @@ HEADER = {'User-Agent': 'email@email.com'}
 url = "https://data.sec.gov/api/xbrl/companyfacts/CIK{}.json"
 base = "CIK{}"
 url_concepts = "https://data.sec.gov/api/xbrl/companyconcept/{}/us-gaap/{}.json"
-facts = CompanyFacts("UnitedHealth Group Inc")
+facts = CompanyFacts("your_company_name")
 hashMap = {}
 
 
