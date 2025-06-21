@@ -18,5 +18,4 @@ A lightweight Python utility to fetch and parse financial data for a specific co
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/edgar-financials-utils.git
-cd edgar-financials-utils
+git clone https://github.com/cern7/edgar-API-utils.git
