@@ -106,10 +106,9 @@ UNH: CIK 731766
 ---
 
 ☕ **Support This Project**  
-If you find this utility helpful, consider [buying me a coffee](coff.ee/cern) to support continued development.  
-Your support is greatly appreciated!
+If this tool helped you, consider [buying me a coffee](https://coff.ee/cern).  
+Your support keeps the project alive and growing!
 
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/cern)
 
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](coff.ee/cern)
 
