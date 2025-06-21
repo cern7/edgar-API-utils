@@ -15,8 +15,25 @@ A lightweight Python utility to fetch and parse financial data for a specific co
 
 ## 🧩 Installation
 
-Clone the repository:
+### Install Python 
+https://www.python.org/downloads/
+
+### Clone the repository:
 
 ```bash
 git clone https://github.com/cern7/edgar-API-utils.git
 cd edgar-API-utils/
+```
+### Install dependencies:
+
+```bash
+pip install aiohttp
+pip install pandas
+```
+# 🛠️ Usage
+## 1. Find your company CIK ([central index key](www.google.com)) 
+Inside your folder ```../edgar-API-utils``` run the script:
+
+```bash
+python .\utils.py
+```
