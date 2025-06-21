@@ -19,3 +19,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/cern7/edgar-API-utils.git
+cd edgar-API-utils/
